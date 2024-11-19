@@ -1,2 +1,2 @@
 # Price of cars
-After understanding, preparing, and modeling your data, write up a basic report that details your primary findings. Your audience for this report is a group of used car dealers interested in fine-tuning their inventory.
+The audience for this report is a group of used car dealers interested in fine-tuning their inventory. The goal of this project is to identify the key factors that influence used car prices. By understanding these factors, I aim to help a used car dealership make informed decisions on pricing, inventory management, and marketing strategies, ultimately improving profitability and market competitiveness.
